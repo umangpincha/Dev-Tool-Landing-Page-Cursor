@@ -12,4 +12,6 @@ https://umangpincha.github.io/Dev-Tool-Landing-Page-Cursor/
 ## Preview
 
 ```md
-![Website Preview](Dev-Tool-Landing-Page-Cursor/Images/mainpage.png)
+![Uploading Screenshot 2026-02-06 at 10.25.48 AM.png…]()
+
+
