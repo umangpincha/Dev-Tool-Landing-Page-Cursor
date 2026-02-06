@@ -1,44 +1,40 @@
 # Dev Tool Landing Page — Cursor UI Clone
 
-A modern dark-themed landing page inspired by **Cursor.dev**, built using pure **HTML & CSS**.
+A modern dark-themed landing page inspired by Cursor.dev, built using pure HTML and CSS.
 
-##Sections Included
-Top Navigation Bar
-Hero Section
-Trusted By / Logos
-Feature Sections
-Feature Cards
-Testimonials
-Use Cases / Stories
-Changelog / Updates
-Team / About
-Final Call To Action
-Footer
+This project focuses on recreating a real-world product UI to practice frontend fundamentals, layout systems, and modern dark design.
 
-Tech Stack
-	•	HTML5
-	•	CSS3 (Flexbox + Grid)
-	•	Custom Fonts (Cursor Website)
-
-Project Structure
-Dev-Tool-Landing-Page-Cursor/
-│
-├── index.html
-├── style.css
-├── Images/
-│     └── ***.png
-└── README.md
-
-Run Locally
-git clone https://github.com/umangpincha/Dev-Tool-Landing-Page-Cursor.git
-cd Dev-Tool-Landing-Page-Cursor
-open index.html
+Live Demo:  
+https://umangpincha.github.io/Dev-Tool-Landing-Page-Cursor/
 
 ---
 
 ## Preview
-[image alt](https://github.com/umangpincha/Dev-Tool-Landing-Page-Cursor/blob/f66d419ac9cef54e262b087cf72075117a17a174/Images/main-page.png)
 
-**Live Demo:**  
-https://umangpincha.github.io/Dev-Tool-Landing-Page-Cursor/
+![Website Preview](https://github.com/umangpincha/Dev-Tool-Landing-Page-Cursor/blob/f66d419ac9cef54e262b087cf72075117a17a174/Images/main-page.png)
 
+---
+
+## Sections Included
+
+Top Navigation Bar  
+Hero Section  
+Trusted By / Logos  
+Feature Sections  
+Feature Cards  
+Testimonials  
+Use Cases / Stories  
+Changelog / Updates  
+Team / About  
+Final Call To Action  
+Footer  
+
+---
+
+## Tech Stack
+
+HTML5  
+CSS3 (Flexbox + Grid)  
+Custom Fonts (Cursor Website)  
+
+---
