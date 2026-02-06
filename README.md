@@ -11,7 +11,5 @@ https://umangpincha.github.io/Dev-Tool-Landing-Page-Cursor/
 
 ## Preview
 
-> Add your website screenshot below:
-
 ```md
-![Website Preview](screenshots/preview.png)
+![Website Preview](Images/main-page.png)
