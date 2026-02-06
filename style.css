@@ -418,14 +418,16 @@ body{
     font-family: Inter, system-ui, sans-serif;
     color: white;
     margin-top: 100px;
-    margin-left: 100px;
+    padding: 70px;
+    background-color: #1B1913;
+    width: 100vw;
   }
   
-  
   .highlights-title {
-    font-size: 22px;
-    font-weight: 400;
-    margin-top: 10px;
+    font-size: 18px;
+    font-weight:lighter;
+    width: 100%;
+    padding: 22px 26px;
   }
   
   
@@ -439,11 +441,10 @@ body{
   .highlight-card {
     padding: 22px 26px;
     border-radius: 14px;
-    background: linear-gradient(180deg,#1a1915,#12110f);
     /* box-shadow:
       inset 0 0 0 1px #2a281f; */
     width: 50%;
-    border: 2px solid transparent;
+    background-color: #26241E;
   }
   
   /* TEXT */
