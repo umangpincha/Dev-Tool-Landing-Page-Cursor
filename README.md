@@ -12,6 +12,6 @@ https://umangpincha.github.io/Dev-Tool-Landing-Page-Cursor/
 ## Preview
 
 ```md
-![Uploading Screenshot 2026-02-06 at 10.25.48 AM.png…]()
+<img width="1440" height="814" alt="Screenshot 2026-02-06 at 10 25 48 AM" src="https://github.com/user-attachments/assets/46cf524e-173c-49da-8da4-59ab5cf31a2e" />
 
 
