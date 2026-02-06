@@ -2,8 +2,6 @@
 
 A modern dark-themed landing page inspired by Cursor.dev, built using pure HTML and CSS.
 
-This project focuses on recreating a real-world product UI to practice frontend fundamentals, layout systems, and modern dark design.
-
 Live Demo:  
 https://umangpincha.github.io/Dev-Tool-Landing-Page-Cursor/
 
