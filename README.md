@@ -12,6 +12,5 @@ https://umangpincha.github.io/Dev-Tool-Landing-Page-Cursor/
 ## Preview
 
 ```md
-<img width="1440" height="814" alt="Screenshot 2026-02-06 at 10 25 48 AM" src="https://github.com/user-attachments/assets/46cf524e-173c-49da-8da4-59ab5cf31a2e" />
-
+![image alt](https://github.com/umangpincha/Dev-Tool-Landing-Page-Cursor/blob/f66d419ac9cef54e262b087cf72075117a17a174/Images/main-page.png)
 
