@@ -10,6 +10,5 @@ https://umangpincha.github.io/Dev-Tool-Landing-Page-Cursor/
 ---
 
 ## Preview
-
-![image alt](https://github.com/umangpincha/Dev-Tool-Landing-Page-Cursor/blob/f66d419ac9cef54e262b087cf72075117a17a174/Images/main-page.png)
+```md![image alt](https://github.com/umangpincha/Dev-Tool-Landing-Page-Cursor/blob/f66d419ac9cef54e262b087cf72075117a17a174/Images/main-page.png)
 
