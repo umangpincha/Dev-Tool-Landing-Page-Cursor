@@ -38,3 +38,13 @@ CSS3 (Flexbox + Grid)
 Custom Fonts (Cursor Website)  
 
 ---
+
+## Project Structure
+```md
+Dev-Tool-Landing-Page-Cursor/
+│
+├── index.html
+├── style.css
+├── Images/
+│     └── main-page.png
+└── README.md
