@@ -38,6 +38,13 @@ CSS3 (Flexbox + Grid)
 Custom Fonts (Cursor Website)  
 
 ---
+## Run Locally
+```bash
+git clone https://github.com/umangpincha/Dev-Tool-Landing-Page-Cursor.git
+cd Dev-Tool-Landing-Page-Cursor
+open index.html
+
+---
 
 ## Project Structure
 ```md
@@ -48,3 +55,5 @@ Dev-Tool-Landing-Page-Cursor/
 ├── Images/
 │     └── main-page.png
 └── README.md
+
+
