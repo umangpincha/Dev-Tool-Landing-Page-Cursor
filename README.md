@@ -30,6 +30,10 @@ Final Call To Action
 Footer  
 
 ---
+## Font: 
+The one used in website
+
+---
 
 ## Tech Stack
 
@@ -37,12 +41,6 @@ HTML5
 CSS3 (Flexbox + Grid)  
 Custom Fonts (Cursor Website)  
 
----
-## Run Locally
-```bash
-git clone https://github.com/umangpincha/Dev-Tool-Landing-Page-Cursor.git
-cd Dev-Tool-Landing-Page-Cursor
-open index.html
 
 ---
 
