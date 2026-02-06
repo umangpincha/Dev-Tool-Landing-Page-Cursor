@@ -34,7 +34,6 @@ The one used in website
 ---
 
 ## Tech Stack
-
 HTML5  
 CSS3 (Flexbox + Grid)  
 Custom Fonts (Cursor Website)  
