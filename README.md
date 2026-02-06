@@ -12,4 +12,4 @@ https://umangpincha.github.io/Dev-Tool-Landing-Page-Cursor/
 ## Preview
 
 ```md
-![Website Preview](Dev-Tool-Landing-Page-Cursor/Images/main-page.png)
+![Website Preview](Dev-Tool-Landing-Page-Cursor/Images/mainpage.png)
